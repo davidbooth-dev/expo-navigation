@@ -9,16 +9,16 @@ open vscode
 install react navigation
 
 npm install 
-    @react-navigation/native
-    @react-navigation/bottom-tabs
-    @react-navigation/native-stack
-    @react-navigation/drawer    
-    @react-navigation/material-top-tabs  
-    react-native-tab-view
+-    @react-navigation/native
+-   @react-navigation/bottom-tabs
+-    @react-navigation/native-stack
+-    @react-navigation/drawer    
+-    @react-navigation/material-top-tabs  
+-    react-native-tab-view
 
  npx expo 
-    install react-native-screens 
-    react-native-safe-area-context   
-    react-native-gesture-handler
-    react-native-reanimated
-    react-native-pager-view
+ -   install react-native-screens 
+ -   react-native-safe-area-context   
+ -   react-native-gesture-handler
+ -   react-native-reanimated
+ -   react-native-pager-view
